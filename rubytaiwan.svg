@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="504px" height="414px" viewBox="0 0 504 414" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+<svg width="514px" height="421px" viewBox="0 0 514 421" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
     <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
     <title>rubytaiwan</title>
     <desc>Created with Sketch.</desc>
@@ -27,22 +27,22 @@
         </linearGradient>
     </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="rubytaiwan" sketch:type="MSLayerGroup" transform="translate(1.000000, 2.000000)">
-            <path d="M96.417,15.906 C225.08,-4.704 285.764,-5.166 406.807,16.53 L501,147.362 L253.261,409.341 L1,147.658 L96.417,15.906 L96.417,15.906 Z" id="Background" fill="#FF0000" sketch:type="MSShapeGroup"></path>
-            <path d="M501,147 L376,177.138 L251,410 L501,147 L501,147 Z" id="Shape" stroke="#FF0000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="url(#linearGradient-1)" sketch:type="MSShapeGroup"></path>
-            <path d="M376,177.138 L251,410 L251,201 L376,177.138 Z" id="Shape" stroke="#FF0000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="url(#linearGradient-1)" sketch:type="MSShapeGroup"></path>
-            <path d="M251,410 L251,201 L120,174.302 L251,410 L251,410 Z" id="Shape" stroke="#FF0000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="url(#linearGradient-1)" sketch:type="MSShapeGroup"></path>
-            <path d="M120,174.302 L251,410 L1,147 L120,174.302 Z" id="Shape" stroke="#FF0000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="url(#linearGradient-1)" sketch:type="MSShapeGroup"></path>
-            <path d="M376,177.138 L406,16 L501,147 L376,177.138 L376,177.138 Z" id="Shape" stroke="#FF0000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="url(#linearGradient-1)" sketch:type="MSShapeGroup"></path>
-            <path d="M376,177.138 L406,16 L297,55 L376,177.138 L376,177.138 Z" id="Shape" stroke="#FF0000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="url(#linearGradient-1)" sketch:type="MSShapeGroup"></path>
-            <path d="M376,177.138 L297,55 L251,201 L376,177.138 L376,177.138 Z" id="Shape" stroke="#FF0000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="url(#linearGradient-1)" sketch:type="MSShapeGroup"></path>
-            <path d="M297,55 L205,55 L251,201 L297,55 L297,55 Z" id="Shape" stroke="#FF0000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="url(#linearGradient-1)" sketch:type="MSShapeGroup"></path>
-            <path d="M205,55 L120,174.302 L251,201 L205,55 L205,55 Z" id="Shape" stroke="#FF0000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="url(#linearGradient-1)" sketch:type="MSShapeGroup"></path>
-            <path d="M96,16 L120,174.302 L205,55 L96,16 L96,16 Z" id="Shape" stroke="#FF0000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="url(#linearGradient-1)" sketch:type="MSShapeGroup"></path>
-            <path d="M96,16 L1,147 L120,174.302 L96,16 L96,16 Z" id="Shape" stroke="#FF0000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="url(#linearGradient-1)" sketch:type="MSShapeGroup"></path>
-            <path d="M205,55 L297,55 L406,15.953 C302.68,-5.319 201.138,-3.574 96,16 L205,55 Z" id="Shape" stroke="#FF0000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="url(#linearGradient-2)" sketch:type="MSShapeGroup"></path>
-            <path d="M125,277 L1,147 L96,16 C205.017,-3.51 310.976,-2.44699971 396,15.0000003 C273,54.0000018 167.783,138.478 125,277 Z" id="Reflection" fill="url(#linearGradient-3)" sketch:type="MSShapeGroup"></path>
-            <path d="M96,16 C224.663,-4.61 284.957,-5.697 406,16 L501,147 L251,410 L1,147 L96,16 L96,16 Z" id="Outline" stroke="#D21B1B" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+        <g id="rubytaiwan" sketch:type="MSLayerGroup" transform="translate(1.000000, 1.000000)">
+            <path d="M97.9920449,16.2184965 C229.652311,-4.79641692 291.749974,-5.26749358 415.612729,16.8547559 L512,150.257141 L258.489801,417.383099 L0.352260093,150.558956 L97.9920449,16.2184965 L97.9920449,16.2184965 Z" id="Background" fill="#FF0000" sketch:type="MSShapeGroup"></path>
+            <path d="M512,149.888029 L384.088065,180.618133 L256.17613,418.055046 L512,149.888029 L512,149.888029 Z" id="Shape" stroke="#FF0000" stroke-linecap="round" stroke-linejoin="round" fill="url(#linearGradient-1)" sketch:type="MSShapeGroup"></path>
+            <path d="M384.088065,180.618133 L256.17613,418.055046 L256.17613,204.948937 L384.088065,180.618133 Z" id="Shape" stroke="#FF0000" stroke-linecap="round" stroke-linejoin="round" fill="url(#linearGradient-1)" sketch:type="MSShapeGroup"></path>
+            <path d="M256.17613,418.055046 L256.17613,204.948937 L122.124422,177.726416 L256.17613,418.055046 L256.17613,418.055046 Z" id="Shape" stroke="#FF0000" stroke-linecap="round" stroke-linejoin="round" fill="url(#linearGradient-1)" sketch:type="MSShapeGroup"></path>
+            <path d="M122.124422,177.726416 L256.17613,418.055046 L0.352260093,149.888029 L122.124422,177.726416 Z" id="Shape" stroke="#FF0000" stroke-linecap="round" stroke-linejoin="round" fill="url(#linearGradient-1)" sketch:type="MSShapeGroup"></path>
+            <path d="M384.088065,180.618133 L414.786929,16.3143433 L512,149.888029 L384.088065,180.618133 L384.088065,180.618133 Z" id="Shape" stroke="#FF0000" stroke-linecap="round" stroke-linejoin="round" fill="url(#linearGradient-1)" sketch:type="MSShapeGroup"></path>
+            <path d="M384.088065,180.618133 L414.786929,16.3143433 L303.247722,56.0805549 L384.088065,180.618133 L384.088065,180.618133 Z" id="Shape" stroke="#FF0000" stroke-linecap="round" stroke-linejoin="round" fill="url(#linearGradient-1)" sketch:type="MSShapeGroup"></path>
+            <path d="M384.088065,180.618133 L303.247722,56.0805549 L256.17613,204.948937 L384.088065,180.618133 L384.088065,180.618133 Z" id="Shape" stroke="#FF0000" stroke-linecap="round" stroke-linejoin="round" fill="url(#linearGradient-1)" sketch:type="MSShapeGroup"></path>
+            <path d="M303.247722,56.0805549 L209.104538,56.0805549 L256.17613,204.948937 L303.247722,56.0805549 L303.247722,56.0805549 Z" id="Shape" stroke="#FF0000" stroke-linecap="round" stroke-linejoin="round" fill="url(#linearGradient-1)" sketch:type="MSShapeGroup"></path>
+            <path d="M209.104538,56.0805549 L122.124422,177.726416 L256.17613,204.948937 L209.104538,56.0805549 L209.104538,56.0805549 Z" id="Shape" stroke="#FF0000" stroke-linecap="round" stroke-linejoin="round" fill="url(#linearGradient-1)" sketch:type="MSShapeGroup"></path>
+            <path d="M97.5653307,16.3143433 L122.124422,177.726416 L209.104538,56.0805549 L97.5653307,16.3143433 L97.5653307,16.3143433 Z" id="Shape" stroke="#FF0000" stroke-linecap="round" stroke-linejoin="round" fill="url(#linearGradient-1)" sketch:type="MSShapeGroup"></path>
+            <path d="M97.5653307,16.3143433 L0.352260093,149.888029 L122.124422,177.726416 L97.5653307,16.3143433 L97.5653307,16.3143433 Z" id="Shape" stroke="#FF0000" stroke-linecap="round" stroke-linejoin="round" fill="url(#linearGradient-1)" sketch:type="MSShapeGroup"></path>
+            <path d="M209.104538,56.0805549 L303.247722,56.0805549 L414.786929,16.2664199 C309.06004,-5.42349949 205.152571,-3.64421642 97.5653307,16.3143433 L209.104538,56.0805549 Z" id="Shape" stroke="#FF0000" stroke-linecap="round" stroke-linejoin="round" fill="url(#linearGradient-2)" sketch:type="MSShapeGroup"></path>
+            <path d="M127.2409,282.442068 L0.352260093,149.888029 L97.5653307,16.3143433 C209.121934,-3.57895905 318.847576,-3.10135152 405.852251,14.6884202 C279.986907,54.4546334 171.02055,141.198602 127.2409,282.442068 Z" id="Reflection" fill="url(#linearGradient-3)" sketch:type="MSShapeGroup"></path>
+            <path d="M97.5653307,16.3143433 C229.225597,-4.70057015 290.924175,-5.80892584 414.786929,16.3143433 L512,149.888029 L256.17613,418.055046 L0.352260093,149.888029 L97.5653307,16.3143433 L97.5653307,16.3143433 Z" id="Outline" stroke="#D21B1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
         </g>
     </g>
 </svg>
